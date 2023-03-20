@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="-- GREECE --" tvg-logo="" group-title="GREECE",-- GREECE --
-http://the-hive.xyz:8080/live/KsaxbnB6bS/tZJlfP4gdl/11335.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GR : 4E" tvg-logo="" group-title="GREECE",GR : 4E
 http://the-hive.xyz:8080/live/KsaxbnB6bS/tZJlfP4gdl/8714.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GR : ACTION 24 HD" tvg-logo="" group-title="GREECE",GR : ACTION 24 HD
