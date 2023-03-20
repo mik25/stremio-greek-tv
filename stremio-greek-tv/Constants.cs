@@ -7,7 +7,7 @@ namespace stremio_greek_tv
 {
     class Constants
     {
-        public const string TVChannelsFileUrl = "https://raw.githubusercontent.com/tninis/greek-tv-resources/main/Playlists/GRTV.m3u";
+        public const string TVChannelsFileUrl = "https://raw.githubusercontent.com/mik25/stremio-greek-tv/master/stremio-greek-tv/Resources/Playlists/GRTV.m3u";
         public const string TVChannelsFilePath = @"Resources\Playlists\GRTV.m3u";
     }
 
